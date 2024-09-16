@@ -1,11 +1,10 @@
 {
   "data": {
-    "appId": "du_test_app_id",
+    "expirationTime": 0,
+    "appId": "438212937494848",
     "appUrl": "https://github.com/LongMyDu/HostFile/raw/zinstant-app/app.zip",
-    "appChecksum": "3982398942",
-    "appVersionCode": 1,
-    "lastTimeCheckUpdate": 1234567776,
-    "expirationTime": 86400
+    "appChecksum": "6bf6fbbf9c0e6602589d35c8e730755f",
+    "appVersionCode": 1
   },
   "error_code": 0,
   "message": "Success"
