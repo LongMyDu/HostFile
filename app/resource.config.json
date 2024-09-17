@@ -1,0 +1,33 @@
+{
+  
+  "theme": {
+    "light": {
+      "bottomBarTextColor": "#767A7F",
+      "bottomBarSelectedTextColor": "#006AF5",
+      "bottomBarBackgroundColor": "#ffffff",
+      "bottomBarTopBorderColor": "#767A7F"
+    },
+    "dark": {
+      "bottomBarTextColor": "#767A7F",
+      "bottomBarSelectedTextColor": "#006AF5",
+      "bottomBarBackgroundColor": "#1E1E1E",
+      "bottomBarTopBorderColor": "#767A7F"
+    }
+  },
+  "i18n" : {
+    "vi": {
+            "bottomBarItem1": "Hehe",
+            "bottomBarItem2": "Haha",
+            "bottomBarItem3": "Gần đây",
+            "bottomBarItem4": "Thông báo"
+          },
+    "en": {
+            "bottomBarItem1": "Hehe",
+            "bottomBarItem2": "Haha",
+            "bottomBarItem3": "Recent",
+            "bottomBarItem4": "Notification"
+    }
+  }
+  
+}
+  
